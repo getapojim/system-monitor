@@ -1,13 +1,13 @@
 {
-  name system-monitor,
-  version ,
-  description ,
-  main server.py,
-  author ,
-  license ,
-  languagepython,
-  scripts {
-    start python3 -u server.py
+  "name": "system-monitor",
+  "version": "",
+  "description": "",
+  "main": "server.py",
+  "author": "",
+  "license": "",
+  "language":"python",
+  "scripts": {
+    "start": "python3 -u server.py"
   },
-  dependency null
+  "dependency": null
 }
